@@ -1,12 +1,7 @@
 package com.ejemplo.miapp;
 
-import java.util.ArrayList;
-import java.util.InputMismatchException;
-import java.util.List;
 import java.util.Scanner;
 
-import com.ejemplo.miapp.ui.Menu;
-import com.ejemplo.miapp.ui.Option;
 import com.ejemplo.miapp.ui.TasksMenu;
 
 public class Main {

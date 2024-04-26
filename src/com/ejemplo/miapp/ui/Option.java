@@ -1,6 +1,5 @@
 package com.ejemplo.miapp.ui;
 
-import java.io.IOException;
 import java.util.function.BiConsumer;
 
 import com.ejemplo.miapp.User;
